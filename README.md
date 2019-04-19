@@ -1,13 +1,13 @@
 ## Probable Happiness
 
-
+[![Build Status](https://travis-ci.com/mayant15/probable-happiness.svg?branch=master)](https://travis-ci.com/mayant15/probable-happiness)
 [![Ruby](https://img.shields.io/badge/ruby-2.5.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
 
 A blog for one of my clubs based on [Jasper](https://github.com/jekyller/jasper)
 
 ## Demo
-Hosted at: mayant15.github.io/probable-happiness
+Hosted by GitHub Pages [here](mayant15.github.io/probable-happiness)
 
 ## Jasper theme includes
 
