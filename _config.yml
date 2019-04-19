@@ -11,11 +11,11 @@ name: 'Music Club, IIT Kanpur'
 # description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 description: ""
 
-short_url: 'mayant15.github.io/jasper/'
+short_url: 'mayant15.github.io/probable-happiness/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /probable-happiness/
 
 # Permalinks
 permalink: /:title
@@ -47,12 +47,12 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: mayant15
-repo: jasper
+repo: probable-happiness
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://mayant15.github.io/jasper/
-source_url:  https://github.com/mayant15/jasper/
+relative_source: ../probable-happiness/
+destination: ../probable-happiness-dump/
+production_url:  https://mayant15.github.io/probable-happiness/
+source_url:  https://github.com/mayant15/probable-happiness/
 
 exclude:
   - README.md
