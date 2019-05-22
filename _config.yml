@@ -11,11 +11,11 @@ name: 'Music Club, IIT Kanpur'
 # description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 description: ""
 
-short_url: 'mayant15.github.io/probable-happiness/'
+short_url: 'mclubii.tk'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /probable-happiness/
+baseurl: /
 
 # Permalinks
 permalink: /:title
