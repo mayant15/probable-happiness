@@ -51,7 +51,7 @@ repo: probable-happiness
 branch: master
 relative_source: ../probable-happiness/
 destination: ../probable-happiness-dump/
-production_url:  https://mayant15.github.io/probable-happiness/
+production_url:  http://www.mclubii.tk/
 source_url:  https://github.com/mayant15/probable-happiness/
 
 exclude:
