@@ -6,7 +6,7 @@ title: 'An interesting one liner title for the article'
 date: 2019-04-17 10:18:00
 tags: rock
 subclass: 'post tag-rock'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 author: mayant
 categories: reviews
 album: 'Titanic Rising'

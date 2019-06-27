@@ -6,7 +6,7 @@ title: 'Heck another interesting one liner title for the article'
 date: 2019-04-17 10:18:00
 tags: metal
 subclass: 'post tag-metal'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 author: mayant
 categories: reviews
 album: 'Lotus'
