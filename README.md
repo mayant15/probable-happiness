@@ -1,8 +1,9 @@
 ## Probable Happiness
 
-[![Build Status](https://travis-ci.com/mayant15/probable-happiness.svg?branch=master)](https://travis-ci.com/mayant15/probable-happiness)
-[![Ruby](https://img.shields.io/badge/ruby-2.5.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper)
+[![Build Status](https://img.shields.io/travis/mayant15/probable-happiness?style=for-the-badge)](https://travis-ci.com/mayant15/probable-happiness)
+[![Ruby](https://img.shields.io/badge/ruby-2.5.2-blue.svg?style=for-the-badge)](http://travis-ci.org/jekyller/jasper)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=for-the-badge)](http://travis-ci.org/jekyller/jasper)
+[![Trivago](https://img.shields.io/badge/Hotel%3F-Trivago-important?style=for-the-badge&logo=Tinder)](https://travis-ci.com/mayant15/probable-happiness)
 
 A blog for one of my clubs based on [Jasper](https://github.com/jekyller/jasper)
 
